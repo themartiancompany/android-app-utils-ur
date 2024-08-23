@@ -1,0 +1,15 @@
+pkgbase = android-app-utils
+	pkgdesc = Android application utilities.
+	pkgver = 0.0.0.0.0.0.0.0.0.0.0.0.0.1
+	pkgrel = 1
+	url = https://github.com/themartiancompany/android-app-utils
+	arch = any
+	license = AGPL3
+	checkdepends = shellcheck
+	makedepends = make
+	depends = android-utils
+	source = android-app-utils-ae2ad8225c6f312687467a88acc631c7bae2d541.zip::https://github.com/themartiancompany/android-app-utils/archive/ae2ad8225c6f312687467a88acc631c7bae2d541.zip
+	validpgpkeys = 97E989E6CF1D2C7F7A41FF9F95684DBE23D6A3E9
+	sha256sums = 1948529321a8750133d2302cda01d7dc3e7275b8419e8f868287aa421b706e9e
+
+pkgname = android-app-utils
